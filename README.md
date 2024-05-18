@@ -6,7 +6,7 @@
 <img src="git.png" alt="side Image" align="right" width="300" height="auto" />
 
 * I'm a passionate AI/ML engineer 😎 exploring possibilities.
-* 🎓 - Btech. Electronics and Telecommunication. Woriking on IT 😎
+* 🎓 - Btech. Electronics and Telecommunication. Woriking in IT 😎
 * Let's Change the word with the AI and Make life easier 😉
 
 
